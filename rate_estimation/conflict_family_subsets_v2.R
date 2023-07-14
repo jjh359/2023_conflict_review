@@ -350,8 +350,8 @@ zapodid_tree <- drop.tip(zapodid_tree, subset(zapodid_tree$tip.label, !(zapodid_
 ##################
 # ANALYSIS
 ##################
-trees <- c(aotid_tree, atelid_tree, bovid_tree, cervid_tree, cricetid_tree, echimyid_tree, herpestid_tree, macropode_tree, murid_tree, phyllostomid_tree, pteropode_tree, rhinolophe_tree, soricid_tree, tenrec_tree, zapodid_tree)
-x<-list(aotid_data, atelid_data, bovid_data, cervid_data, cricetid_data, echimyid_data, herpestid_data, macropode_data, murid_data, phyllostomid_data, pteropode_data, rhinolophe_data, soricid_data, tenrec_data, zapodid_data)
+trees <- c(aotid_tree, atelid_tree, bovid_tree, callitrichid_tree, cervid_tree, cricetid_tree, echimyid_tree, herpestid_tree, macropode_tree, murid_tree, phyllostomid_tree, pteropode_tree, rhinolophe_tree, soricid_tree, tenrec_tree, zapodid_tree)
+x<-list(aotid_data, atelid_data, bovid_data, callitrichid_data, cervid_data, cricetid_data, echimyid_data, herpestid_data, macropode_data, murid_data, phyllostomid_data, pteropode_data, rhinolophe_data, soricid_data, tenrec_data, zapodid_data)
 
 test <- ratebytree(trees, x, type="discrete")
 test
