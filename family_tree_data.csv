@@ -1,0 +1,161 @@
+﻿order,family,family_common,species,species_common,has_atypical_sex_chromosomes,variant_form,number_variant,fraction_variant
+Afrosoricida,Chrysochloridae,Golden moles,Chrysochloris asiatica,Cape golden mole,,XY,0,0
+Afrosoricida,Potamogalidae,Otter shrews,Potamogale velox,Giant otter shrew,,XY,0,0
+Afrosoricida,Tenrecidae,Tenrecs,Tenrec ecaudatus,Common tenrec,y,Unknown,1,3.23
+Artiodactyla,Antilocapridae,Pronghorns,Antilocapra americana,Pronghorn,,XY,0,0
+Artiodactyla,Balaenidae,Right and bowhead whales,Balaena mysticetus,Bowhead whale,,XY,0,0
+Artiodactyla,Balaenopteridae,Rorquals,Balaenoptera musculus,Blue whale,,XY,0,0
+Artiodactyla,Bovidae,Bovids,Bos taurus,Domestic cattle,y,X-A & Y-A fusion,23,16.08
+Artiodactyla,Camelidae,Camelids,Camelus dromedarius,Dromedary camel,,XY,0,0
+Artiodactyla,Cervidae,True deer,Cervus elaphus,Red deer,y,X-A fusion,7,12.73
+Artiodactyla,Cetotheriidae,Cetotheres,Caperea marginata,Pygmy right whale,,XY,0,0
+Artiodactyla,Delphinidae,Oceanic dolphins,Delphinus delphis,Common dolphin,,XY,0,0
+Artiodactyla,Giraffidae,Giraffids,Giraffa camelopardalis,Northern giraffe,,XY,0,0
+Artiodactyla,Hippopotamidae,Hippos,Hippopotamus amphibius,Common hippopotamus,,XY,0,0
+Artiodactyla,Iniidae,South American river dolphins,Inia geoffrensis,Amazon river dolphin,,XY,0,0
+Artiodactyla,Kogiidae,Kogia sperm whales,Kogia breviceps,Pygmy sperm whale,,XY,0,0
+Artiodactyla,Lipotidae,Lipotid river dolphins,Lipotes vexillifer,Baiji,,XY,0,0
+Artiodactyla,Monodontidae,Monodontids,Monodon monoceros,Narwhal,,XY,0,0
+Artiodactyla,Moschidae,Musk deer,Moschus moschiferus,Siberian musk deer,,XY,0,0
+Artiodactyla,Phocoenidae,Porpoises,Phocoena phocoena,Harbor porpoise,,XY,0,0
+Artiodactyla,Physeteridae,Sperm whales,Physeter macrocephalus,Sperm whale,,XY,0,0
+Artiodactyla,Platanistidae,Asian river dolphins,Platanista gangetica,Ganges river dolphin,,XY,0,0
+Artiodactyla,Pontoporiidae,La Plata dolphin,Pontoporia blainvillei,La Plata dolphin,,XY,0,0
+Artiodactyla,Suidae,Pigs,Sus scrofa,Wild boar,,XY,0,0
+Artiodactyla,Tayassuidae,Peccaries,Tayassu pecari,White-lipped peccary,,XY,0,0
+Artiodactyla,Tragulidae,Chevrotains,Tragulus javanicus,Javan chevrotain,,XY,0,0
+Artiodactyla,Ziphiidae,Beaked whales,Ziphius cavirostris,Goose-beaked whale,,XY,0,0
+Carnivora,Ailuridae,Ailurids,Ailurus fulgens,Red panda,,XY,0,0
+Carnivora,Canidae,Dogs,Canis lupus,Gray wolf,,XY,0,0
+Carnivora,Eupleridae,Malagasy mongooses,Eupleres goudotii,Eastern falanouc,,XY,0,0
+Carnivora,Felidae,Cats,Felis silvestris,European wildcat,,XY,0,0
+Carnivora,Herpestidae,Mongooses,Herpestes ichneumon,Egyptian mongoose,y,Y-A fusion,9,26.47
+Carnivora,Hyaenidae,Hyenas,Hyaena hyaena,Striped hyena,,XY,0,0
+Carnivora,Mephitidae,Skunks and stink badgers,Mephitis mephitis,Striped skunk,,XY,0,0
+Carnivora,Mustelidade,Mustelids,Mustela erminea,Stoat,,XY,0,0
+Carnivora,Nandiniidae,Palm civet,Nandinia binotata,African palm civet,,XY,0,0
+Carnivora,Odobenidae,Walruses,Odobenus rosmarus,Walrus,,XY,0,0
+Carnivora,Otariidae,Eared seals,Otaria bryonia,South American sea lion,,XY,0,0
+Carnivora,Phocidae,Earless seals,Phoca vitulina,Harbor seal,,XY,0,0
+Carnivora,Prionodontidae,Linsangs,Prionodon linsang,Banded linsang,,XY,0,0
+Carnivora,Procyonidae,Procyonids,Procyon lotor,Raccoon,,XY,0,0
+Carnivora,Ursidae,Bears,Ursus arctos,Brown bear,,XY,0,0
+Carnivora,Viverridae,Viverrids,Viverra zibetha,Large Indian civet,,XY,0,0
+Chiroptera,Cistugidae,Hairy bats,Cistugo seabrae,Angolan hairy bat,,XY,0,0
+Chiroptera,Craseonycteridae,Bumblebee bat,Craseonycteris thonglongyai,Bumblebee bat,,XY,0,0
+Chiroptera,Emballonuridae,Sac-winged bats,Emballonura monticola,Lesser sheath-tailed bat,,XY,0,0
+Chiroptera,Furipteridae,Smoky and thumbless bats,Furipterus horrens,Thumbless bat,,XY,0,0
+Chiroptera,Hipposideridae,Old World leaf-nosed bats,Hipposideros armiger,Great roundleaf bat,,XY,0,0
+Chiroptera,Megadermatidae,False vampire bats,Megaderma lyra,Greater false vampire bat,,XY,0,0
+Chiroptera,Miniopteridae,Bent-winged bats,Miniopterus schreibersii,Common bent-wing bat,,XY,0,0
+Chiroptera,Molossidae,Free-tailed bats,Molossus molossus,Velvety free-tailed bat,,XY,0,0
+Chiroptera,Mormoopidae,Mustached bats,Mormoops blainvillei,Antillean ghost-faced bat,,XY,0,0
+Chiroptera,Mystacinidae,New Zealand short-tailed bats,Mystacina tuberculata,New Zealand lesser short-tailed bats,,XY,0,0
+Chiroptera,Myzopodidae,Sucker-footed bats,Myzopoda aurita,Madagascar sucker-footed bat,,XY,0,0
+Chiroptera,Natalidae,Funnel-eared bats,Natalus stramineus,Mexican funnel-eared bat,,XY,0,0
+Chiroptera,Noctilionidae,Bulldog bats,Noctilio leporinus,Fisherman bat,,XY,0,0
+Chiroptera,Nycteridae,Slit-faced bats,Nycteris hispida,Hairy slit-faced bat,,XY,0,0
+Chiroptera,Phyllostomidae,Leaf-nosed bats,Phyllostomus hastatus,Greater spear-nosed bat,y,X-A & Y-A fusion,30,14.71
+Chiroptera,Pteropodidae,Megabats,Pteropus vampyrus,Large flying fox,y,Y loss,4,2.11
+Chiroptera,Rhinolophidae,Horseshoe bats,Rhinolophus hipposideros,Lesser horseshoe bat,y,Y-A fusion,1,1.15
+Chiroptera,Rhinonycteridae,Trident bats,Rhinonicteris aurantia,Orange leaf-nosed bat,,XY,0,0
+Chiroptera,Rhinopomatidae,Mouse-tailed bats,Rhinopoma microphyllum,Greater mouse-tailed bat,,XY,0,0
+Chiroptera,Thyropteridae,Disk-winged bats,Thyroptera tricolor,Spix's disk-winged bat,,XY,0,0
+Chiroptera,Vespertilionidae,Vesper bats,Myotis myotis,Greater mouse-eared bat,,XY,0,0
+Cingulata,Chlamyphoridae,Chlamyphorid armadillos,Chlamyphorus truncatus,Pink fairy armadillo,,XY,0,0
+Cingulata,Dasypodidae,Long-nosed armadillos,Dasypus novemcinctus,Nine-banded armadillo,,XY,0,0
+Dasyuromorphia,Dasyuridae,Marsupial carnivores,Dasyurus maculatus,Tiger quoll,,XY,0,0
+Dasyuromorphia,Myrmecobiidae,Numbat,Myrmecobius fasciatus,Numbat,,XY,0,0
+Dermoptera,Cynocephalidae,Colugos,Cynocephalus volans,Philippine colugo,,XY,0,0
+Didelphimorphia,Didelphidae,Opossums,Didelphis marsupialis,Common opossum,,XY,0,0
+Diprotodontia,Acrobatidae,Feathertails,Acrobates pygmaeus,Feathertail glider,,XY,0,0
+Diprotodontia,Burramyidae,Pygmy possums,Burramys parvus,Mountain pygmy possum,,XY,0,0
+Diprotodontia,Hypsiprymnodontidae,Musky rat-kangaroo,Hypsiprymnodon moschatus,Musky rat-kangaroo,,XY,0,0
+Diprotodontia,Macropodidae,"Kangaroos, wallabies, and allies",Macropus giganteus,Eastern grey kangaroo,y,Multiple,2,3.17
+Diprotodontia,Petauridae,Gliding possums,Petaurus australis,Fluffy glider,,XY,0,0
+Diprotodontia,Phalangeridae,Brushtail possums,Phalanger orientalis,Northern common cuscus,,XY,0,0
+Diprotodontia,Phascolarctidae,Koala,Phascolarctos cinereus,Koala,,XY,0,0
+Diprotodontia,Potoroidae,"Potoroos, bettongs, and rat-kangaroos",Potorous gilbertii,Ngilkat,,XY,0,0
+Diprotodontia,Pseudocheiridae,Ringtail possums,Pseudocheirus peregrinus,Common ringtail possum,,XY,0,0
+Diprotodontia,Tarsipedidae,Honey possum,Tarsipes rostratus,Honey possum,,XY,0,0
+Diprotodontia,Vombatidae,Wombats,Vombatus ursinus,Common wombat,,XY,0,0
+Eulipotyphla,Erinaceidae,Hedgehogs and moonrats,Erinaceus europaeus,European hedgehog,,XY,0,0
+Eulipotyphla,Solenodontidae,Solenodons,Solenodon paradoxus,Hispaniolan solenodon,,XY,0,0
+Eulipotyphla,Soricidae,Shrews,Sorex araneus,Common shrew,y,X-A fusion,10,2.42
+Eulipotyphla,Talpidae,Moles and desmans,Talpa europaea,European mole,,XY,0,0
+Hyracoidea,Procaviidae,Hyraxes,Procavia capensis,Rock hyrax,,XY,0,0
+Lagomorpha,Leporidae,Rabbits and hares,Lepus timidus,Mountain hare,,XY,0,0
+Lagomorpha,Ochotonidae,Pika,Ochotona princeps,American pika,,XY,0,0
+Macroscelidea,Macroscelididae,Sengis,Macroscelides proboscideus,Karoo round-eared sengi,,XY,0,0
+Microbiotheria,Microbiotheriidae,Monito del monte,Dromiciops gliroides,Monito del monte,,XY,0,0
+Monotremata,Ornithorhynchidae,Platypus,Ornithorhynchus anatinus,Platypus,y,Monotremes,1,100
+Monotremata,Tachyglossidae,Echidnas,Tachyglossus aculeatus,Short-beaked echidna,y,Monotremes,4,100
+Notoryctemorphia,Notoryctidae,Marsupial moles,Notoryctes typhlops,Southern marsupial mole,,XY,0,0
+Paucituberculata,Caenolestidae,Shrew opossums,Caenolestes fuliginosus,Dusky caenolestid,,XY,0,0
+Peramelemorphia,Peramelidae,Bandicoots,Perameles nasuta,Long-nosed bandicoot,,XY,0,0
+Peramelemorphia,Thylacomyidae,Bilbies,Macrotis lagotis,Greater bilby,y,X-A fusion,1,100
+Perissodactyla,Equidae,Horses,Equus caballus,Horse,,XY,0,0
+Perissodactyla,Rhinocerotidae,Rhinoceroses,Rhinoceros unicornis,Indian rhinoceros,,XY,0,0
+Perissodactyla,Tapiridae,Tapirs,Tapirus terrestris,South American tapir,,XY,0,0
+Pholidota,Manidae,Pangolins,Phataginus tricuspis,Common African pangolin,y,Y-A fusion,1,12.5
+Pilosa,Bradypodidae,Three-toed sloths,Bradypus tridactylus,Pale-throated three-toed sloth,,XY,0,0
+Pilosa,Choloepodidae,Two-toed sloths,Choloepus didactylus,Southern two-toed sloth,y,Y-A fusion,1,50
+Pilosa,Cyclopodidae,Silky anteaters,Cyclopes didactylus,Silky anteater,,XY,0,0
+Pilosa,Myrmecophagidae,Anteaters,Myrmecophaga tridactyla,Giant anteater,,XY,0,0
+Primates,Aotidae,Night monkeys,Aotus trivirgatus,Three-striped night monkey,y,Y-A fusion,2,18.18
+Primates,Atelidae,"Howler, spider, and woolly monkeys",Ateles paniscus,Red-faced spider monkey,y,Y-A fusion,10,35.71
+Primates,Callitrichidae,Marmosets and tamarins,Callithrix jacchus,Common marmoset,y,Y-A fusion,1,2.13
+Primates,Cebidae,Capuchin and squirrel monkeys,Cebus capucinus,White-faced capuchin,,XY,0,0
+Primates,Cercopithecidae,Old World monkeys,Cercopithecus diana,Diana monkey,y,Y-A fusion,1,0.8
+Primates,Cheirogaleidae,Dwarf and mouse lemurs,Cheirogaleus major,Greater dwarf lemur,,XY,0,0
+Primates,Daubentoniidae,Aye-ayes,Daubentonia madagascariensis,Aye-aye,,XY,0,0
+Primates,Galagidae,Galagos,Galago senegalensis,Senegal bushbaby,,XY,0,0
+Primates,Hominidae,Great apes,Homo sapiens,Human,,XY,0,0
+Primates,Hylobatidae,Gibbons,Hylobates lar,Lar gibbon,,XY,0,0
+Primates,Indriidae,"Indri, sifakas, and woolly lemurs",Indri indri,Indri,,XY,0,0
+Primates,Lemuridae,Lemurs,Lemur catta,Ring-tailed lemur,,XY,0,0
+Primates,Lepilemuridae,Sportive lemurs,Lepilemur mustelinus,Weasel sportive lemur,,XY,0,0
+Primates,Lorisidae,"Lorises, pottos, and angwantibos",Loris tardigradus,Red slender loris,,XY,0,0
+Primates,Pitheciidae,"Titis, sakis, and uakaris",Pithecia pithecia,White-faced saki,,XY,0,0
+Primates,Tarsiidae,Tarsiers,Tarsius tarsier,Spectral tarsier,,XY,0,0
+Proboscidea,Elephantidae,Elephants,Elephas maximus,Asian elephant,,XY,0,0
+Rodentia,Abrocomidae,Chinchilla rats,Abrocoma boliviensis,Bolivian chinchilla rat,,XY,0,0
+Rodentia,Anomaluridae,Scaly-tailed squirrels,Anomalurus pusillus,Dwarf scaly-tailed squirrel,,XY,0,0
+Rodentia,Aplodontiidae,Mountain beaver,Aplodontia rufa,Mountain beaver,,XY,0,0
+Rodentia,Bathyergidae,Blesmols,Bathyergus suillus,Cape dune mole-rat,,XY,0,0
+Rodentia,Calomyscidae,Mouse-like hamsters,Calomyscus bailwardi,Zagros Mountains mouse-like hamster,,XY,0,0
+Rodentia,Castoridae,Beavers,Castor canadensis,North American beaver,,XY,0,0
+Rodentia,Caviidae,Cavies,Cavia porcellus,Guinea pig,,XY,0,0
+Rodentia,Chinchillidae,Chinchillas and viscachas,Chinchilla chinchilla,Short-tailed chinchilla,,XY,0,0
+Rodentia,Cricetidae,Cricetids,Cricetus cricetus,European hamster,y,Multiple,23,3.23
+Rodentia,Ctenodactylidae,Gundis,Ctenodactylus gundi,Common gundi,,XY,0,0
+Rodentia,Ctenomyidae,Tuco-tucos,Ctenomys brasiliensis,Brazilian tuco-tuco,,XY,0,0
+Rodentia,Cuniculidae,Pacas,Cuniculus paca,Lowland paca,,XY,0,0
+Rodentia,Dasyproctidae,Agoutis and acouchis,Dasyprocta leporina,Red-rumped agouti,,XY,0,0
+Rodentia,Diatomyidae,Laotian rock rat,Laonastes aenigmamus,Laotian rock rat,,XY,0,0
+Rodentia,Dinomyidae,Pacarana,Dinomys branickii,Pacarana,,XY,0,0
+Rodentia,Dipodidae,Jerboas,Dipus sagitta,Northern three-toed gerboa,,XY,0,0
+Rodentia,Echimyidae,Neotropical spiny rats,Echimys chrysurus,White-faced spiny tree rat,y,X-A fusion,3,3.33
+Rodentia,Erethizontidae,New World porcupines,Erethizon dorsatum,North American porcupine,,XY,0,0
+Rodentia,Geomyidae,Pocket gophers,Geomys bursarius,Plains pocket gopher,,XY,0,0
+Rodentia,Gliridae,Dormice,Glis glis,European edible dormouse,,XY,0,0
+Rodentia,Heterocephalidae,Naked mole-rat,Heterocephalus glaber,Naked mole-rat,,XY,0,0
+Rodentia,Heteromyidae,Heteromyids,Heteromys anomalus,Trinidad spiny ,,XY,0,0
+Rodentia,Hystricidae,Old World porcupines,Hystrix cristata,Crested porcupine,,XY,0,0
+Rodentia,Muridae,Murids,Mus musculus,House mouse,y,Multiple,20,2.6
+Rodentia,Nesomyidae,Nesomyids,Nesomys rufus,Island mouse,,XY,0,0
+Rodentia,Octodontidae,Degus and viscacha rats,Octodon degus,Common degu,,XY,0,0
+Rodentia,Pedetidae,Springhares,Pedetes capensis,South African springhare,,XY,0,0
+Rodentia,Petromuridae,Dassie rat,Petromus typicus,Dassie rat,,XY,0,0
+Rodentia,Platacanthomyidae,Oriental dormice,Platacanthomys lasiurus,Malabar spiny dormouse,,XY,0,0
+Rodentia,Sciuridae,Squirrels,Sciurus vulgaris,Eurasian red squirrel,,XY,0,0
+Rodentia,Sminthidae,Birch mice,Sicista subtilis,Southern birch mouse,,XY,0,0
+Rodentia,Spalacidae,"Mole-rats, bamboo rats, and zokors",Spalax microphthalmus,Greater blind mole-rat,,XY,0,0
+Rodentia,Thryonomyidae,Cane rats,Thryonomys gregorianus,Lesser cane rat,,XY,0,0
+Rodentia,Zapodidae,Jumping mice,Zapus hudsonius,Meadow jumping mouse,y,Unknown,2,40
+Rodentia,Zenkerellidae,Cameroon scaly-tail,Zenkerella insignis,Cameroon scaly-tail,,XY,0,0
+Scandentia,Ptilocercidae,Pen-tailed treeshrew,Ptilocercus lowii,Pen-tailed treeshrew,,XY,0,0
+Scandentia,Tupaiidae,Ordinary treeshrews,Tupaia glis,Common treeshrew,,XY,0,0
+Sirenia,Dugongidae,Dugong,Dugong dugon,Dugong,,XY,0,0
+Sirenia,Trichechidae,Manatees,Trichechus manatus,West Indian manatee,,XY,0,0
+Tubulidentata,Orycteropodidae,Aardvark,Orycteropus afer,Aardvark,,XY,0,0
