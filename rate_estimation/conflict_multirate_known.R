@@ -4,11 +4,6 @@ library("treeio")
 
 setwd("D:/Documents/Research/conflict_review/rate_estimation/")
 
-mamMCC <- drop.tip(read.nexus(file="MamPhy_fullPosterior_BDvr_Completed_5911sp_topoCons_NDexp_MCC_v2_target.tre"),"_Anolis_carolinensis")
-plottree <- ladderize(mamMCC, right=TRUE)
-
-cladesDR <- read.csv("MamPhy_5911sp_tipGenFamOrdCladeGenesSampPC_NDexp_DRstats_DRtreeLABELS.csv", header = TRUE)
-
 treeset <- read.nexus(file = "upham_credible_trees.nex")
 
 tips <- sort(treeset[[1]]$tip.label)
